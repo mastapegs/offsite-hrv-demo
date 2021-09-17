@@ -1,0 +1,1 @@
+export { PictureTakingUI } from "./PictureTakingUI";

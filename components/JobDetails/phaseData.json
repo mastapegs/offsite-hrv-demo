@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Client",
+    "data": [
+      {
+        "title": "Client Profile",
+        "description":
+          "Collect the key information about the insured individual",
+        "icon": "/client-icon.svg"
+      }
+    ]
+  },
+  {
+    "title": "Property",
+    "data": [
+      {
+        "title": "Property Information",
+        "description":
+          "Details about the property and bathroom.",
+        "icon": "/product-specification-icon.svg"
+      }
+    ]
+  },
+  {
+    "title": "Specifications",
+    "data": [
+      {
+        "title": "Grab Bar Specifications",
+        "description":
+          "Selecting the right products and materials for the specific installation.",
+        "icon": "/installation-advisor-icon.svg"
+      }
+    ]
+  },
+  {
+    "title": "Instructions",
+    "data": [
+      {
+        "title": "Installation Instructions",
+        "description":
+          "The detailed instructions to install the selected grab bars.",
+        "icon": "/installation-tools-icon.svg"
+      }
+    ]
+  }
+]
